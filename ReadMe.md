@@ -1,3 +1,8 @@
+# Saflok Updates
+### If you are looking for the Saflok updates, please subscribe to notification for https://github.com/Next-Flip/Momentum-Firmware/pull/461, or check back there for updates.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo_dark.png">
